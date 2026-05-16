@@ -28,7 +28,7 @@ class ProteinEmbeddingDataset(Dataset):
 
         self.accessions = self.data[id_column].astype(str).tolist()
         self.scores = self.data[target_column].tolist()
-        self.lmdb_file = lmdb_file
+        self.lmdb_file = str(lmdb_file)
 
         # Open lazily so DataLoader workers create their own LMDB handles.
         self.env = None
