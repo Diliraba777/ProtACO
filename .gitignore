@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and experiment outputs
+logs/
+lightning_logs/
+.lightning/
+runs/
+plots/
+outputs/
+
+# Model checkpoints and large binary artifacts
+weights/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# Data and embedding stores
+data/
+datasets/
+*.lmdb/
+*.lmdb
+*.mdb
+*.lock
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# TensorBoard
+events.out.tfevents.*

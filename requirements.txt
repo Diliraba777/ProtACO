@@ -1,0 +1,12 @@
+biopython
+lmdb
+matplotlib
+numpy
+pandas
+pytest
+pytorch-lightning
+sentencepiece
+torch
+torchmetrics
+tqdm
+transformers
