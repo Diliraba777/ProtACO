@@ -23,6 +23,7 @@ This repository accompanies the manuscript **"ProtACO: Prediction of Protein Abs
 |-- pyproject.toml           # Packaging and test metadata
 |-- requirements.txt         # Python dependencies
 |-- LICENSE                  # MIT license
+|-- THIRD_PARTY_NOTICES.md   # Notices for adapted third-party work
 `-- .gitignore               # Files excluded from version control
 ```
 
@@ -167,6 +168,10 @@ Yu, C., Ji, M., He, J., Ma, H., and Liu, X. (2026). ProtACO: Prediction of Prote
 
 The source code is available at `https://github.com/Diliraba777/ProtACO`. Publication details will be updated after acceptance if a DOI or formal citation becomes available.
 
+## Acknowledgements
+
+ProtACO was inspired by and partially adapted from TM-Vec, a method for protein remote homology detection and structural alignment. Please see `THIRD_PARTY_NOTICES.md` for the TM-Vec repository, paper, and BSD 3-Clause license notice.
+
 ## License
 
-This project is released under the MIT License. See `LICENSE` for details.
+This project is released under the MIT License. Portions adapted from TM-Vec remain subject to the original TM-Vec BSD 3-Clause license notice; see `THIRD_PARTY_NOTICES.md` for details.
