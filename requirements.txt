@@ -1,3 +1,4 @@
+# Runtime and test dependencies for ProtACO.
 biopython
 lmdb
 matplotlib

@@ -20,6 +20,7 @@ keywords = [
     "protein",
     "protein-language-model",
     "ProtT5",
+    "absolute-contact-order",
     "PyTorch",
     "regression",
 ]

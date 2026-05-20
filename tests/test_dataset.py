@@ -1,3 +1,5 @@
+"""Tests for ProtACO dataset loading and collation."""
+
 import pytest
 import torch
 from torch.utils.data import DataLoader

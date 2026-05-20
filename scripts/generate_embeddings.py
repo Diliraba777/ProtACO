@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Generate ProtT5 embeddings and store them in LMDB."""
+
 import argparse
 import gc
 import os

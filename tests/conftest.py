@@ -1,3 +1,5 @@
+"""Pytest fixtures for ProtACO smoke tests."""
+
 import pickle
 
 import lmdb

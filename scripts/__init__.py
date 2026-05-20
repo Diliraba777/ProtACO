@@ -1,1 +1,1 @@
-"""Command-line scripts for ProtACO."""
+"""Command-line entry points for ProtACO."""

@@ -1,3 +1,5 @@
+"""Dataset utilities for ProtACO."""
+
 import pickle
 
 import lmdb

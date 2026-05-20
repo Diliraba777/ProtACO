@@ -1,6 +1,6 @@
 # Examples
 
-This directory is reserved for small, non-sensitive examples that document the expected input formats. Do not place full research datasets, generated LMDB stores, or model checkpoints here.
+This directory contains small, non-sensitive examples that document the expected input formats. Do not place full research datasets, generated LMDB stores, or model checkpoints here.
 
 Included files:
 

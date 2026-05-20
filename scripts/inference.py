@@ -1,3 +1,5 @@
+"""Run ProtACO inference on FASTA sequences."""
+
 import argparse
 import os
 import re

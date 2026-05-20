@@ -1,3 +1,5 @@
+# ProtACO repository ignore rules.
+
 # Python
 __pycache__/
 *.py[cod]

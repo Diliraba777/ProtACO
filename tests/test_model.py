@@ -1,3 +1,5 @@
+"""Tests for the ProtACO model."""
+
 import torch
 
 from protaco.model import TransformerEncoderRegressor
